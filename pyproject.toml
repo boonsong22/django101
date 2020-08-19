@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "project"
+version = "1.0.0"
+description = ""
+authors = ["Boonsong"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+django = "=3.0.1"
+djangorestframework = "^3.11.1"
