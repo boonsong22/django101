@@ -8,3 +8,4 @@ authors = ["Boonsong"]
 python = "^3.7"
 django = "=3.0.1"
 djangorestframework = "^3.11.1"
+asgiref="3.2.10"
